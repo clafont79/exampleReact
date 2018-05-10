@@ -27,7 +27,6 @@ Create a desired root directory <root_folder_project>:
 	cd <root_folder_project>
 	git clone https://github.com/clafont79/exampleReact.git
 	cd exampleReact
-	open cmd 
 	npm install (Only first time)
 	  
 
