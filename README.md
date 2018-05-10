@@ -13,11 +13,11 @@ Example React starterkit with server-side React rendering using
 [react-transmit](https://github.com/RickWong/react-transmit),
 [react-inline-css](https://github.com/RickWong/react-inline-css)
 
-#Pre-requisites
+## Pre-requisites
 
-	[Node.js](https://nodejs.org/en/)
+[Node.js](https://nodejs.org/en/)
 	
-	[MongoDB](https://www.mongodb.com/download-center?jmp=tutorials&_ga=2.81930966.1107962716.1525881723-86971522.1500537902#enterprise)
+[MongoDB](https://www.mongodb.com/download-center?jmp=tutorials&_ga=2.81930966.1107962716.1525881723-86971522.1500537902#enterprise)
 
 
 ## Installation
