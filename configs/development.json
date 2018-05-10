@@ -1,0 +1,10 @@
+{
+  "private": "only server see it",
+  "another": "secret api key",
+  "stripe_secret": "sk_test_AFDLS1cPl6q2qJ0cq5xVRRb9",
+  "public": {
+    "stripe": "pk_test_VW9hVt9sEbwKbdkAVzskf62x",
+    "version": "build 312",
+    "ga": 321
+  }
+}
