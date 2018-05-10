@@ -19,6 +19,10 @@ Example React starterkit with server-side React rendering using
 	
 [MongoDB](https://www.mongodb.com/download-center?jmp=tutorials&_ga=2.81930966.1107962716.1525881723-86971522.1500537902#enterprise)
 
+Create an account to run sample transactions on Stripe:
+[Stripe](https://stripe.com/it) 
+
+Then go to the Developers -> Keys API section on the left, copy the Publishable key and Secret key and replace in the development.json file
 
 ## Installation
 
